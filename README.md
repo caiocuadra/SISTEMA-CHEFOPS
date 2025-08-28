@@ -39,7 +39,7 @@ Certifique-se de ter um ambiente de servidor local como XAMPP ou Laragon. Coloqu
 
 Crie um banco de dados MySQL com o nome de sua preferência.
 
-Importe o arquivo sql_schema.sql  usando o phpMyAdmin ou outra ferramenta.
+Importe o arquivo chefops.sql  usando o phpMyAdmin ou outra ferramenta.
 
 Atenção: Se o arquivo config.php ou MySql.php contiver credenciais, preencha-as corretamente com as suas.
 
